@@ -4,7 +4,6 @@ import 'tmb_model.dart';
 // Servei per accedir a l'API de TMB (Exercici 4)
 class TmbService {
   final String _baseUrl = 'https://api.tmb.cat/v1';
-  // Substituir per les teves credencials de https://developer.tmb.cat/
   final String _appId = 'd48b2661';
   final String _appKey = '712a889d8804b25797e3d7e92135d707';
 
